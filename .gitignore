@@ -12,7 +12,6 @@ env/
 # Logs and Output Files
 *.log
 *.out
-*.txt
 
 # Database
 *.sqlite3
