@@ -8,6 +8,7 @@ __pycache__/
 venv/
 env/
 
+
 # Logs and Output Files
 *.log
 *.out
@@ -23,3 +24,6 @@ Thumbs.db
 # Airflow
 airflow.cfg
 airflow.db
+
+# Other Folders
+logs/
